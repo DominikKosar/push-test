@@ -1,6 +1,7 @@
 <?php
 
- echo "Funguješ???\n";
+echo "Funguješ???\n";
  for($i = 0; $i < 5; $i++){
-  echo "funguje \n";
+  echo "i + 1 \n";
  }
+echo "A to je všechno :)";
